@@ -1,0 +1,23 @@
+*{
+    text-decoration: none;
+    list-style: none;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+.icons{
+    background-color: blue;
+    color: white;
+    height: 100vh;
+}
+.icons-barra{
+   font-size: 2.5em;
+  
+   
+}
+.icones-juntos{
+    display: grid;
+   
+}
+.icone-bottom{
+
+}
